@@ -11,11 +11,20 @@
 <a href="https://github.com/viniciusmema">
   <img src="https://img.shields.io/badge/GitHub-viniciusmema-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.casaserenum.com.br">
-  <img src="https://img.shields.io/badge/Casa%20Serenum-website-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Casa Serenum">
+<a href="https://instagram.com/viniciusmema">
+  <img src="https://img.shields.io/badge/Instagram-viniciusmema-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://amartransforma.com.br">
-  <img src="https://img.shields.io/badge/Amar%20Transforma-website-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Amar Transforma">
+<a href="https://www.linkedin.com/in/viniciusmema">
+  <img src="https://img.shields.io/badge/LinkedIn-viniciusmema-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.youtube.com/@viniciusmema">
+  <img src="https://img.shields.io/badge/YouTube-viniciusmema-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://twitch.tv/vinimema">
+  <img src="https://img.shields.io/badge/Twitch-vinimema-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<a href="https://www.reddit.com/user/oviniciusmendes">
+  <img src="https://img.shields.io/badge/Reddit-oviniciusmendes-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit">
 </a>
 
 São Paulo — SP, Brasil
