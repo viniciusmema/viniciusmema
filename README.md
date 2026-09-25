@@ -52,7 +52,7 @@ Atuo na concepção do produto, identidade visual, UX/UI, arquitetura da experi�
 
 E-commerce de artigos para casa, cama, mesa, banho e decoração. O projeto envolve identidade visual, UX/UI, desenvolvimento do front-end e integração da experiência da marca com catálogo e checkout.
 
-**Tecnologias:** front-end, APIs, Yampi, Mercado Pago, Vercel e Cloudflare.  
+**Tecnologias:** front-end, APIs, Yampi, Mercado Pago e Cloudflare.  
 **[Visitar o site →](https://www.casaserenum.com.br)**
 
 ### Amar Transforma
@@ -75,7 +75,6 @@ Projeto digital institucional desenvolvido para centralizar a presença online e
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111" alt="Supabase">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
