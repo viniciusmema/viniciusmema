@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/viniciusmema/viniciusmema/main/assets/header-portfolio.jpg" width="100%" alt="Creative Technologist & Digital Product Designer">
+<img src="./assets/header-portfolio.jpg" width="100%" alt="Creative Technologist & Digital Product Designer">
 
 # Vinicius Mendes Maia
 
