@@ -51,21 +51,21 @@ Uma aplicação criada para transformar a construção de roteiros em um process
 
 Plataforma de estudo bíblico criada para reunir estudo aprofundado, devocionais, leitura, organização e ferramentas de apoio em uma experiência centralizada.
 
-Atuo na concepção do produto, identidade visual, UX/UI, arquitetura da experiência e evolução das funcionalidades.
+Atuo na criação da identidade visual, concepção do produto, UX/UI, arquitetura da experiência e evolução das funcionalidades.
 
 **Tecnologias:** React, JavaScript/TypeScript, Supabase, APIs e persistência de dados.  
 **Status:** projeto privado.
 
 ### Casa Serenum
 
-E-commerce de artigos para casa, cama, mesa, banho e decoração. O projeto envolve identidade visual, UX/UI, desenvolvimento do front-end e integração da experiência da marca com catálogo e checkout.
+E-commerce de artigos para casa, cama, mesa, banho e decoração. O projeto envolve a criação da identidade visual, UX/UI, desenvolvimento do front-end e integração da experiência da marca com catálogo e checkout.
 
 **Tecnologias:** front-end, APIs, Yampi, Mercado Pago e Cloudflare.  
 **[Visitar o site →](https://www.casaserenum.com.br)**
 
 ### Amar Transforma
 
-Projeto digital institucional desenvolvido para centralizar a presença online e a comunicação da igreja Amar Transforma, com recursos voltados à comunicação, eventos e comunidade.
+Projeto digital institucional com identidade visual criada por mim, desenvolvido para centralizar a presença online e a comunicação da igreja Amar Transforma, com recursos voltados à comunicação, eventos e comunidade.
 
 **Tecnologias:** front-end, JavaScript, APIs e integrações com serviços externos.  
 **[Visitar o site →](https://amartransforma.com.br)**
@@ -111,9 +111,9 @@ My current focus is creating my own digital products and continuously deepening 
 ### Selected projects
 
 - **Oficina de Roteiros** — A visual and organized workspace for writing, structuring and managing creative scripts.
-- **Ide Scriptum** — A centralized Bible study platform combining study, devotionals, reading and organization tools.
-- **Casa Serenum** — An e-commerce experience for home, bed, bath and decoration products. [Visit the website →](https://www.casaserenum.com.br)
-- **Amar Transforma** — An institutional digital project focused on communication, events and community. [Visit the website →](https://amartransforma.com.br)
+- **Ide Scriptum** — A visual identity and centralized Bible study platform combining study, devotionals, reading and organization tools.
+- **Casa Serenum** — A visual identity and e-commerce experience for home, bed, bath and decoration products. [Visit the website →](https://www.casaserenum.com.br)
+- **Amar Transforma** — An institutional digital project with a visual identity created by me, focused on communication, events and community. [Visit the website →](https://amartransforma.com.br)
 
 ## Contato
 
