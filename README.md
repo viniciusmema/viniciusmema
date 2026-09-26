@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Reddit-oviniciusmendes-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit">
 </a>
 
-São Paulo — SP, Brasil
 
 </div>
 
